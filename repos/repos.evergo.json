@@ -5,7 +5,7 @@
         "repo": "https://github.com/Xiaomi-MT6833/kernel_xiaomi_evergo",
         "branch": "R",
         "device": "evergo",
-        "defconfig": "evergo"
+        "defconfig": "evergo_defconfig"
       },
       "withKernelSU": true,
       "toolchains": [
