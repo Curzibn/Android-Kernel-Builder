@@ -7,7 +7,7 @@
       "device": "chopin",
       "defconfig": "chopin_user_defconfig"
     },
-    "withKernelSU": false,
+    "withKernelSU": true,
     "toolchains": [
       {
         "repo": "https://github.com/kdrag0n/proton-clang",
@@ -37,10 +37,10 @@
       }
     },
     "AnyKernel3": {
-      "use": false,
-      "release": false,
+      "use": true,
+      "release": true,
       "repo": "https://github.com/easterNday/AnyKernel3/",
-      "branch": "thyme"
+      "branch": "master"
     }
   }
 ]
