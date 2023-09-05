@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "Chopin_KernelSU_Proton",
-      "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource/",
-      "branch": "chopin-r-oss",
+      "repo": "https://github.com/AOSP-13-Mediatek/kernel_xiaomi_chopin",
+      "branch": "r",
       "device": "chopin",
       "defconfig": "chopin_user_defconfig"
     },
@@ -37,10 +37,10 @@
       }
     },
     "AnyKernel3": {
-      "use": true,
-      "release": true,
+      "use": false,
+      "release": false,
       "repo": "https://github.com/easterNday/AnyKernel3/",
-      "branch": "master"
+      "branch": "thyme"
     }
   }
 ]
