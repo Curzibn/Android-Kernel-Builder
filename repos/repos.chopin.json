@@ -18,7 +18,7 @@
     ],
     "ccache": true,
     "params": {
-      "ARCH": "arm64",
+      "ARCH": "aarch64",
       "CC": "proton-clang/bin/clang",
       "externalCommand": {
         "CROSS_COMPILE": "proton-clang/bin/aarch64-linux-gnu-",
