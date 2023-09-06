@@ -2,12 +2,12 @@
   {
     "kernelSource": {
       "name": "Evergo_KernelSU_Proton",
-      "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
-      "branch": "evergo-r-oss",
+      "repo": "https://github.com/Xiaomi-MT6833/kernel_xiaomi_evergo",
+      "branch": "R",
       "device": "evergo",
       "defconfig": "evergo_defconfig"
     },
-    "withKernelSU": false,
+    "withKernelSU": true,
     "toolchains": [
       {
         "repo": "https://github.com/kdrag0n/proton-clang",
